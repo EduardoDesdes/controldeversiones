@@ -1,0 +1,13 @@
+Carpeta: test
+Peso:	101.8 MB
+Contenido: 104 items
+
+#Primera vez
+Copiar por desktop: 1.42
+Copiar por termianl: 0:49
+Copiar por Pepito: 6:20
+
+#Segunda vez
+Copiar por desktop: 1.42
+Copiar por termianl: 0:49
+Copiar por Pepito: 0:00:90
